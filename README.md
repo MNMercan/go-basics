@@ -1,0 +1,1 @@
+This repo was opened to learn and note down the basic concepts in the simplest form in my go learning journey.  [Furkan Gülşen's](https://docs.furkangulsen.com/page/) Golang Document was followed and most of the code was created with the instructions there.
